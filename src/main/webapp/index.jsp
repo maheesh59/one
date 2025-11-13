@@ -86,7 +86,7 @@
 
 	<div class="container">
 		<div class="header">
-				<h2>DevOps Trainning, DevOps and AWS Training Institute, Marthahalli, Bangalore.</h2>
+				<h2>Speshway solutions private limited.</h2>
 		</div>
 
 		<div class="row">
